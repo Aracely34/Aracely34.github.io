@@ -1,0 +1,72 @@
+body {
+    font-family: 'Open Sans', sans-serif; 
+    background-image: url(sun.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+}
+
+.topnav {
+    padding: 20px 0px;
+    text-align: center;
+    background-color: #425700;
+    border:2px solid black;
+}
+
+/* Targets just <a> tags inside of the <nav class="topnav"> */
+.topnav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-weight: 600;
+}
+/*.logo {
+    color: white;
+}*/
+
+/* Targets just <a> tags inside of the <nav class="topnav">,
+   when mouse is hovering over it: 
+*/
+.topnav a:hover {
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+}
+header {
+
+}
+h1 {
+    color: yellow;
+    text-align: center;
+    padding-top:80px;
+    font-size: 48px;
+}
+.Camp {
+    background-color: #663300;
+    height:200px;
+    background: linear-gradient(#73400d, seagreen);
+    font-family: 'Leckerli One', cursive;
+
+}
+.title {
+    font-size: 48px;
+}
+.fanpage {
+    background: linear-gradient(seagreen, #73400d);
+    height:800px;
+    width: 80%;
+    text-align: center;
+    /*opacity: 0.5;*/
+}
+p {
+    color: black
+}
+footer {
+    border-top: 1px solid white;
+    margin-top: 40px;
+    color: white;
+}
+div:hover {
+    opacity:1.0;
+    filter:alpha(opacity=100);
+}
