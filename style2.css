@@ -48,12 +48,21 @@ h1 {
     font-family: 'Leckerli One', cursive;
 
 }
+img {
+    padding-top: 5%;
+}
 .title {
-    font-size: 48px;
+    font-size: 60px;
+    padding-top: 5%;
+}
+.trio {
+    font-size: 45px;
+    margin: left;
+   
 }
 .fanpage {
     background: linear-gradient(seagreen, #73400d);
-    height:800px;
+    height:2000px;
     width: 80%;
     text-align: center;
     /*opacity: 0.5;*/
@@ -70,3 +79,8 @@ div:hover {
     opacity:1.0;
     filter:alpha(opacity=100);
 }
+
+
+/*.maxp {
+        margin: 210px 109px;
+}*/

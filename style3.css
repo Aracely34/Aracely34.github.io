@@ -48,6 +48,9 @@ h1 {
     font-family: 'Leckerli One', cursive;
 
 }
+img {
+    padding-top: 5%;
+}
 .title {
     font-size: 48px;
 }
@@ -70,3 +73,4 @@ div:hover {
     opacity:1.0;
     filter:alpha(opacity=100);
 }
+

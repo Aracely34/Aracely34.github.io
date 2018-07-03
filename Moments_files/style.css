@@ -57,28 +57,21 @@ img {
     padding-top: 1%;
 }
 .title2 {
-    font-size: 60px;
+    font-size: 48px;
     padding-top: 3%;
 }
 .title3 {
-    font-size: 60px;
+    font-size: 48px;
     padding-top: 3%;
 }
 .fanpage {
     background: linear-gradient(seagreen, #73400d);
-    height:1700px;
+    height:1050px;
     width: 80%;
     text-align: center;
     /*opacity: 0.5;*/
 }
 .fanpage2 {
-    background: linear-gradient(seagreen, #73400d);
-    height:2700px;
-    width: 80%;
-    text-align: center;
-    /*opacity: 0.5;*/
-}
-.fanpage3 {
     background: linear-gradient(seagreen, #73400d);
     height:2000px;
     width: 80%;
@@ -89,35 +82,15 @@ img {
     text-align: center;
     font-size: 30px;
 }
-.theme {
-    text-align: center;
-    font-size: 30px;
-}
 .intro {
     font-size: 20px;
 }
 .trio {
-    font-size: 50px;
+    font-size: 30px;
     margin: center;
 }
-.campers {
-    font-size: 30px;
-    text-align: center;
-}
-.ATC {
-    margin-right: 850px;
-    font-size: 30px;
-}
-.ATCS {
-    margin-right: 850px;
-    font-size: 30px;
-}
-.counselors {
-    font-size: 30px;
-    text-align: center;
-}
 .Co {
-    font-size: 50px;
+    font-size: 30px;
     margin: center;
 }
 .NnN {
